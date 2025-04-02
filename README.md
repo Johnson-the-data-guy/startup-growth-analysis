@@ -1,6 +1,6 @@
-# UnicornQuest
+# Startup Growth Analysis
 
-Welcome to **UnicornQuest**, where data meets destiny! This project analyzes 5,000 startups to predict which ones are on track to become unicorns—those magical companies valued at $1B+. Using a rich dataset of funding rounds, investment amounts, and growth rates, we harness linear regression to forecast valuations and spotlight the rising stars across industries like EdTech, Fintech, and more.
+Welcome to **my analysis**, where data meets destiny! This project analyzes 5,000 startups to predict which ones are on track to become unicorns—those magical companies valued at $1B+. Using a rich dataset of funding rounds, investment amounts, and growth rates, we harness linear regression to forecast valuations and spotlight the rising stars across industries like EdTech, Fintech, and more.
 
 ## Highlights
 - **Predictive Power**: Linear regression with RMSE ~0.59 and R² ~0.52.
